@@ -17,4 +17,4 @@ eureka:
   instance:
     hostname: localhost
 test:
-  message: hello
+  message: hello,world
